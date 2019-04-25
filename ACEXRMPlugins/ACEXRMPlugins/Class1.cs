@@ -10,5 +10,7 @@ namespace ACEXRMPlugins
     {
         //Test Class Name removed from here
         //Extra line added here
+
+        string com = "sdff";
     }
 }
