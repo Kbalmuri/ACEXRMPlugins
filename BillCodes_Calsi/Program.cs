@@ -33,7 +33,7 @@ namespace BillCodes_Calsi {
         //    //public static string[] InterestCREDITCorporateCPL = { "aceit_interestcupinstitutionalcpl_checkbox", "aceit_interest_cup_institutionalcpl" };
         //}
        static void Main(string[] args) {
-            Init();
+            
      
     }
 
