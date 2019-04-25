@@ -8,5 +8,6 @@ namespace ACEXRMPlugins
 {
     public class Class1
     {
+        //Test Class Name removed from here
     }
 }
